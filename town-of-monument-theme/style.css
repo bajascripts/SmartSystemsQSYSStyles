@@ -1,0 +1,64 @@
+
+.primary-button {
+    background: rgb(251,212,122);
+    border: none;
+    border-radius: 16px;
+    color: black;
+
+}
+.primary-button:value(1) {
+    background: rgb(251,187,122);
+
+
+}
+.success-button {
+    background: rgb(66,210,0);
+    border: none;
+    border-radius: 16px;
+    color: white;
+
+}
+.success-button:value(1) {
+    background: rgb(66,170,0);
+
+}
+.danger-button {
+    background: rgb(210,14,29);
+    border: none;
+    border-radius: 16px;
+    color: white;
+
+}
+.danger-button:value(1) {
+    background: rgb(150,14,29);
+
+}
+.primary-container {
+    background: rgb(251,212,122);
+
+    border-width: 0;
+    border-radius: 0;
+}
+.primary-text {
+    color: rgb(251,212,122);
+
+}
+.warning-text {
+    color: rgb(210,122,29);
+}
+.default-text {
+    color: rgb(0,0,0);
+}
+
+.microphone-mute-button {
+    background: rgb(66,210,0);
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
+.microphone-mute-button:value(1) {
+    background: rgb(210,14,29);
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
