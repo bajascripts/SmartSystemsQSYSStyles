@@ -1,0 +1,105 @@
+
+.primary-button {
+    background: rgb(61, 109, 166);
+    border: none;
+    border-radius: 16px;
+    color: white;
+
+}
+.primary-button:value(1) {
+    background: rgb(120, 162, 47);
+}
+.nav-bar-button {
+    background: rgb(61, 109, 166);
+    border: none;
+    border-radius: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.nav-bar-button:value(1) {
+    background: rgb(120, 162, 47);
+    color: white;
+}
+
+.success-button {
+    background: rgb(66,210,0);
+    border: none;
+    border-radius: 16px;
+    color: white;
+
+}
+.success-button:value(1) {
+    background: rgb(66,170,0);
+
+}
+.danger-button {
+    background: rgb(210,14,29);
+    border: none;
+    border-radius: 16px;
+    color: white;
+
+}
+.danger-button:value(1) {
+    background: rgb(150,14,29);
+
+}
+.primary-container {
+    background: rgb(61, 109, 166);
+
+    border-width: 0;
+    border-radius: 0;
+}
+.primary-text {
+    color: rgb(61, 109, 166);
+
+}
+.warning-text {
+    color: rgb(210,122,29);
+}
+.default-text {
+    color: rgb(0,0,0);
+}
+.default-text-alt {
+    color: rgb(255,255,255);
+}
+
+.microphone-mute-button {
+    background: rgb(66,210,0);
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
+.microphone-mute-button:value(1) {
+    background: rgb(210,14,29);
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
+
+.on-off-button:value(1) {
+    background: rgb(66,210,0);
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
+.on-off-button {
+    background: rgb(210,14,29);
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
+
+
+.fader-mute-button {
+    background: rgb(38,63,127);
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
+.fader-mute-button:value(1) {
+    background: rgb(210,14,29);
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
