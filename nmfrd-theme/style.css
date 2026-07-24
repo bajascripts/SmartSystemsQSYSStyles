@@ -110,3 +110,21 @@
 .logo {
     background-image: url(images/logo.png)
 }
+
+.left-wall {
+    background-image: url(images/left-wall.png)
+}
+.right-wall {
+    background-image: url(images/right-wall.png)
+}
+
+.video-wall {
+    background-image: url(images/video-wall.png)
+}
+
+.left-monitor{
+    background-image: url(images/left-monitor.png)
+}
+.right-monitor {
+    background-image: url(images/right-monitor.png)
+}
